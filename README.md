@@ -12,6 +12,7 @@ TINAELIS MUMBI -BSCCS/2025/ 40091
 
 
 PROJECT: 
-MOTION-ACTIVATED SECURITY LIGHT.
+MOTION-ACTIVATED SECURITY LIGHT.Heart beat monitor.
 HEART BEAT MONITOR.
-There are two branches in the repository for the respective projects . 1.Motion activated security light and 2.Heart beat monitor.
+There are two branches in the repository for the respective projects . 1.Heart   Beat Monitor.
+                                                                       2.Motion Activated Security Light.
